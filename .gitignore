@@ -13,8 +13,6 @@ __pycache__/
 venv/
 env/
 
-# Data files
-data/*.csv
 
 # OS specific
 .DS_Store
