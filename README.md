@@ -11,7 +11,7 @@ This project walks through the full workflow:
 - Exploratory data analysis (EDA) with visualizations
 - Feature engineering
 - Model training and evaluation
-- Performance comparison across models
+- Performance comparison across models using 10-folds cross-validation 
 
 ---
 
